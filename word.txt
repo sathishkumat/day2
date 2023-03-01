@@ -1,0 +1,18 @@
+Write a gifferent between document and window objects
+    1, The window object represents a window/tab containing a DOM document where as document object is property of window object
+ that points to the DOM document loaded in that window.
+    
+    2, A document is an object inside the window object and we use a document object for manipulation inside the document. 
+    
+    3, The first thing that gets loaded into the browser is the window and the properties related to that window are stored in
+ the window object.
+    4, document or just document is the main object of the potentially visible (or better yet: rendered) document object model/DOM.
+    5, window is the global object you can reference any properties of it with just the property 
+name - so you do not have to write down window. - it will be figured out by the runtime.
+    6, The document object is the root node of the HTML document. The document object is a property of the window object.
+    7, Window object − Top of the hierarchy. It is the outmost element of the object hierarchy. 
+    8, Document object − Each HTML document that gets loaded into a window becomes a document object.
+    9, A document is a form of information that might be useful to a user or set of users. 
+    10,  This information can be in digital and nondigital forms. Accordingly, a document can be either digital or nondigital. 
+Different methods are used to store digital and nondigital documents.
+     
